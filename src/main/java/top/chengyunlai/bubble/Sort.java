@@ -5,7 +5,7 @@ package top.chengyunlai.bubble;
  * @description: 🫧冒泡排序 - Java
  * @date 2023/9/8
  */
-public class sort {
+public class Sort {
     public static void main(String[] args) {
         // 生成一个随机数组
         int[] arr = new int[8];
